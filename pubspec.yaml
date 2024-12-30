@@ -1,4 +1,4 @@
-name: template_rendi_app
+name: happys_food
 description: A new Flutter project template.
 publish_to: 'none'
 version: 1.0.0+1
@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.14
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,6 @@
 {
-    "name": "template_rendi_app",
-    "short_name": "template_rendi_app",
+    "name": "happy's food",
+    "short_name": "happy's food",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
